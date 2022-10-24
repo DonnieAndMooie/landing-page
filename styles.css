@@ -162,3 +162,9 @@ button{
     border:solid;
     border-color: white;
 }
+
+footer{
+    display: flex;
+    justify-content: center;
+    color:white
+}
